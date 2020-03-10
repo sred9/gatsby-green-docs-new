@@ -6,6 +6,9 @@
   background: #006400;
   padding-bottom: 0.35em;
   padding-top: 0.35em;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
 }
 
 .site-header-inside {

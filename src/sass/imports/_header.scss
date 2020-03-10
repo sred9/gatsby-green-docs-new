@@ -60,7 +60,7 @@
 
   .menu-item {
     color: _palette(meta);
-    font-size: 0.875rem;
+    font-size: 17px;
     line-height: 1.5;
     position: relative;
 
@@ -119,6 +119,7 @@
         -webkit-transition: margin .3s, opacity .2s;
         transition: margin .3s, opacity .2s;
         visibility: visible;
+       color: rgba(14, 30, 37, 0.87);
       }
     }
 
@@ -154,6 +155,9 @@
           -webkit-transform: translateY(-50%) rotate(45deg);
           transform: translateY(-50%) rotate(45deg);
         }
+       .menu-item:hover, .menu-item:focus{
+       color: rgba(14, 30, 37, 0.87);
+       }
       }
 
       a {

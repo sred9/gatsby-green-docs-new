@@ -7,8 +7,10 @@
 }
 
 .post.type-docs {
-  margin-bottom: 5.625em;
+ 
   width: 58.333333%;
+  margin: 0 0.35rem;
+  padding: 1rem;
 
   h1 {
     font-size: 1.875rem;
@@ -67,8 +69,8 @@
     /*box-shadow: 0 10px 20px -10px rgba(0,0,0,.1);*/
     box-shadow:none;
     box-sizing: border-box;
-    padding: 1rem;
-    margin: 0 0.35rem;
+    
+    margin: 0;
   }
   
   .post-title {

@@ -65,7 +65,8 @@
     position: relative;
 
     &.current {
-      color: _palette(accent);
+      color: rgba(255, 255, 255, 0.89);
+      text-decoration: underline;
     }
   }
 

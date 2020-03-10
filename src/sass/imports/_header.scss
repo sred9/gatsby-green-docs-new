@@ -78,7 +78,7 @@
 
     &:hover,
     &:focus {
-      color: _palette(accent);
+      color: rgba(255, 255, 255, 0.89);
     }
   }
 }
@@ -149,7 +149,7 @@
         display: block;
         margin: 0;
         padding: 0 15px;
-
+        color: rgba(14, 30, 37, 0.87);
         &.has-children > a:after {
           -webkit-transform: translateY(-50%) rotate(45deg);
           transform: translateY(-50%) rotate(45deg);

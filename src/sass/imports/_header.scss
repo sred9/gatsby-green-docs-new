@@ -59,7 +59,7 @@
   }
 
   .menu-item {
-    color: _palette(meta);
+    color: rgba(255, 255, 255, 0.89);
     font-size: 17px;
     line-height: 1.5;
     position: relative;
@@ -78,7 +78,7 @@
 
     &:hover,
     &:focus {
-      color: rgba(255, 255, 255, 0.89);
+      
     }
   }
 }

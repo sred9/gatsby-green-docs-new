@@ -31,6 +31,12 @@ a {
   }
 }
 
+strong {
+  line-height: 1.575;
+  font-weight: 500;
+  
+}
+
 h1,
 h2,
 h3,
@@ -74,7 +80,7 @@ h6 {
 
  p {
   font-size: 1.1rem;
-  line-height: 1.5;
+  line-height: 1.575;
   margin: 0 0 1.875em;
 }
 
@@ -386,6 +392,7 @@ img {
   margin-bottom: 1.5em;
   padding: 1em 1.125em;
   font-size: 1.1rem;
+  line-height: 1.575;
 }
 
 .important {
@@ -396,6 +403,7 @@ img {
   margin-bottom: 1.5em;
   padding: 1em 1.125em;
   font-size: 1.1rem;
+  line-height: 1.575;
 }
 
 /* Background gradient */

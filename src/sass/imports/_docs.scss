@@ -11,6 +11,10 @@
   width: 58.333333%;
   margin: 0 0.35rem;
   padding: 1rem;
+   background: #fff;
+    /*border: 1px solid _palette(border);*/
+    border: 1px solid rgba(0,0,0,.05);
+    border-radius: 0.25rem;
 
   h1 {
     font-size: 1.875rem;
@@ -62,10 +66,7 @@
   }
 
   .post-inside {
-    background: #fff;
-    /*border: 1px solid _palette(border);*/
-    border: 1px solid rgba(0,0,0,.05);
-    border-radius: 0.25rem;
+   
     /*box-shadow: 0 10px 20px -10px rgba(0,0,0,.1);*/
     box-shadow:none;
     box-sizing: border-box;

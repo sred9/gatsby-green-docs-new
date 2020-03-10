@@ -10,8 +10,8 @@
     },
     "green": {
       "sass": {
-        "accent1": "#12db5d",
-        "accent2": "#11998e"
+        "accent1": "#006400",
+        "accent2": "#006400"
       }
     },
     "navy": {

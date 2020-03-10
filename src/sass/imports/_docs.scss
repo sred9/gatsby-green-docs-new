@@ -216,7 +216,7 @@
   display: none;
 
   .page-nav-title {
-    font-size: 1rem;
+    font-size: 1.25rem;
     margin: 0 0 0.625rem;
 
     &:only-child {
@@ -225,9 +225,10 @@
   }
 
   ul {
-    font-size: 0.8125rem;
+    font-size: 1.1rem;
     line-height: 1.5;
     padding: 0;
+    list-style: none;
 
     ul {
       border-left: 1px solid _palette(border);

@@ -350,3 +350,11 @@
     }
   }
 }
+
+
+@media only screen and (min-width: 801px)
+.docs-nav .sticky, .page-nav .sticky {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 3.6rem;
+}

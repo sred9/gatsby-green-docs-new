@@ -224,7 +224,6 @@
   ul {
     font-size: 0.8125rem;
     line-height: 1.5;
-    list-style: none;
     padding: 0;
 
     ul {
@@ -343,7 +342,7 @@
   .post.type-docs {
     .post-title,
     .post-content {
-      padding: 0 2.25rem;
+      padding: 1rem;
     }
   }
 }

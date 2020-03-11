@@ -144,7 +144,10 @@
         margin-top: -0.5rem;
         position: absolute;
         top: -1px;
+ 
+   
       }
+     
 
       .menu-item {
         display: block;
@@ -156,7 +159,7 @@
           transform: translateY(-50%) rotate(45deg);
         }
        .menu-item:hover, .menu-item:focus{
-       color: rgba(14, 30, 37, 0.87);
+       color: 006400;
        }
       }
 

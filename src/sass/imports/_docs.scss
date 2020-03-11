@@ -6,19 +6,17 @@
   padding-top: 0em;
 }
 
-@media only screen and (max-width: 768px) {
-  /* For mobile phones: */
+@media only screen and (min-width: 801px){
+
   .post.type-docs {
-  width: 100%;
-  padding: 0;
-    margin:0;
+  margin: 0 0.35rem;
+  padding: 1rem;
 
   }
 }
 .post.type-docs {
  
-  margin: 0 0.35rem;
-  padding: 1rem;
+
    background: #fff;
     /*border: 1px solid _palette(border);*/
     border: 1px solid rgba(0,0,0,.05);

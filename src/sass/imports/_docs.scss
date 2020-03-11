@@ -5,10 +5,17 @@
 .docs-content {
   padding-top: 0em;
 }
+@media only screen and (max-width: 801px){
+.post.type-docs {
+  width: 100%;
+  padding: 0;
+    margin:0;
+
+  }
+}
 
 .post.type-docs {
  
-  width: 58.333333%;
   margin: 0 0.35rem;
   padding: 1rem;
    background: #fff;

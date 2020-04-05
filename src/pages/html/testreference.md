@@ -1,3 +1,11 @@
+---
+title: HTML5 Tags
+menus:
+  main:
+    title: Docs
+    weight: 2
+template: docs
+---
 <input type="search" class="light-table-filter" data-table="order-table" placeholder="Filter">
 
 <table class="order-table table">

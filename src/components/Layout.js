@@ -17,6 +17,7 @@ export default class Body extends React.Component {
                     <meta name="google" content="notranslate" />
                     <link href="https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i%26Display=swap" rel="stylesheet"/> 
                     <link rel="stylesheet" href={safePrefix('assets/css/main.css')}/>
+                     <script type="text/javascript" src="/tablesearch.js"></script>                            
                 </Helmet>
                 <div id="page" className="site">
                   <Header {...this.props} />
